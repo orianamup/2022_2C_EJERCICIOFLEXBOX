@@ -1,2 +1,2 @@
-# 2022_2C_FLEXBOX
-Ejercicio para Producción Digital II, Universidad de Palermo
+# 2022_2C_EJERCICIOFLEXBOX
+Ejercicio para Producción Digital II, Cátedra Guido Varela Coletta
